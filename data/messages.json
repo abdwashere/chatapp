@@ -1,0 +1,964 @@
+{
+  "general": [
+    {
+      "id": "8868f761-e1e1-4a3f-b2c4-f55bd26944f9",
+      "user": "abd",
+      "text": "39BdbESZIia2MFMX:CC02niMgBWUinj6p+kdFRg==:zBg=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:47:16.759Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "3ae305d7-fe8e-470a-a5d7-d10715fc248d",
+      "user": "abd",
+      "text": "Py7oE/2WovNmlB2+:V9/9Gy3W5s0BHVXhEsrxCg==:3X/Ixg==",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:47:29.037Z",
+      "deleted": false,
+      "replyTo": "8868f761-e1e1-4a3f-b2c4-f55bd26944f9"
+    },
+    {
+      "id": "106c2322-16e7-41d0-ba1e-112476c9dab9",
+      "user": "abd",
+      "text": "erfBmiP0pRf1/A3t:I/H11ol/5Nj+rvoLERJKEw==:wg6+AGoMOw/5",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:47:33.944Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "684c3a2a-824f-4c77-bb89-4e315b95a710",
+      "user": "ass",
+      "text": "OvlqJ2H/5Qir67wf:ihd4lUPLV2r3iVn7G9zcbg==:2eM=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:47:38.147Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "3947d738-35bd-4a32-9a5d-c258799fbd62",
+      "user": "ass",
+      "text": "4874ukX6Vv3lsrCZ:xaw+T8kSTp5L8LHynNjSWg==:o+9UwQ==",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:47:42.470Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "334a06b8-b30d-48d7-9530-92393cc11c9d",
+      "user": "ass",
+      "text": "gy0WvmwJOq6iAHoq:sfulTcrQNpHQlB/nZd/hww==:g1uROiP88Af0mlqu+Wg=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:47:47.262Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "3f6220a4-5b48-41f2-86f8-eec5bfe1cc13",
+      "user": "abd",
+      "text": "+0Hf6x+y1othuY4T:NpPoCpmA8D3bF0m9M0zxpQ==:TEM=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:47:53.485Z",
+      "deleted": false,
+      "replyTo": "334a06b8-b30d-48d7-9530-92393cc11c9d"
+    },
+    {
+      "id": "f90bbc09-c55b-4b15-a480-d12e1dc2cc05",
+      "user": "abd",
+      "text": "nw0JdSM5c5gK35xP:xzSsknAmjaDGQCgKB0zVLQ==:EfpIvMWyxXsjO8oHiPrphMNc/MOfzg==",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:48:14.135Z",
+      "deleted": false,
+      "replyTo": "334a06b8-b30d-48d7-9530-92393cc11c9d"
+    },
+    {
+      "id": "5581f6d4-eece-4906-bd71-d8576b12da35",
+      "user": "meow",
+      "text": "",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:49:37.604Z",
+      "deleted": true,
+      "replyTo": null,
+      "deletedAt": "2026-04-11T17:49:42.383Z"
+    },
+    {
+      "id": "f01bd988-7d1e-44ed-8031-6640791b89c5",
+      "user": "meow",
+      "text": "tboLZOPn5n2SzA01:mxOYFQ4KTb1E4R4Y7Rek2Q==:Dt4=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:49:46.284Z",
+      "deleted": false,
+      "replyTo": "f90bbc09-c55b-4b15-a480-d12e1dc2cc05"
+    },
+    {
+      "id": "2d1224c7-5ccb-4fe5-96d2-8dcadb4f7139",
+      "user": "ass",
+      "text": "GrbWfZRZXSgN32rL:Zghwho0+a5mkn8V0a1XDhQ==:QzEpQg==",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:52:21.920Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "3ce293d4-cfb8-4eb5-8e1d-0aca57e62e21",
+      "user": "ass",
+      "text": "Rm8UoXrtTnr9EnEQ:BPtkFzn54mAldxKsP4qK9A==:VKN+Phm9WTU=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:52:25.949Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "9fef14ab-404c-4905-9ccb-641a8f44de7d",
+      "user": "abd",
+      "text": "kmJjyjyuMqaIaJ+s:sWpdYVZJ3CGfVdrrLilUgQ==:vAzuwQ==",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:52:33.130Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "af624e2b-83a0-4a05-9f46-b2d8a2e6ce38",
+      "user": "abd",
+      "text": "zsHz8HwsdCq051v1:N4WY1iQJs1aBI8qjkMxwsw==:9h7UEpmFXHqKVPR1shaM",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:52:36.306Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "e77144b7-bc77-40ce-b36c-ad3864d9e31c",
+      "user": "ass",
+      "text": "RsO4wHWeUo78u6BA:8y+WdVEJV80EtRvZYP404Q==:Gv52sdM=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:52:38.710Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "79b4312c-a68b-4b6f-88e4-7d28ddb50e3c",
+      "user": "abd",
+      "text": "dAWPN/Y1cv7SsHmG:TPWSXhfz0eCRe+S7oc/N2w==:nUt4f2clRQ==",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:52:44.378Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "de3f439e-c318-474c-8ce5-ee75be741b72",
+      "user": "ass",
+      "text": "HRBj5Obr2AFIg3vE:UNVePaxJZY5wsKbQ69rn6g==:zPQJ",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:52:48.841Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "63184ec2-e735-4104-b0c0-162226c561e6",
+      "user": "abd",
+      "text": "zH61N/iUZT6aH9mg:QyJ3h3CTuOCc7i1jC7HvYA==:6TvLyw==",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:52:52.377Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "3f3adc52-19c4-48b4-b82c-5689b705c641",
+      "user": "abd",
+      "text": "ZgZZk9hDD/ua8obc:a2Av22JR7okF1UzHRoJ/ig==:euQAcPTy3zQJQgWu4/hwNE+DOY8Nb9i0S2jC8WlCqwQg4+Ud+aiN",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:53:01.640Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "fbef7073-9544-4084-afaa-4430e4af0265",
+      "user": "ass",
+      "text": "wMcEGcsYS36vvYyw:Owun5mK2y4C/LzLaUjr4Zg==:9vsbtw==",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:53:11.093Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "499538c5-38ed-4200-9791-928f12fe1204",
+      "user": "ass",
+      "text": "Tgg2Wgj/xuLNYoN6:on9nIA4+K+JxclltZjfntA==:b1YYpVw/4QlOOlAMTvSWjwj/UCJJSlbyuG8OSpDX",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:53:30.529Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "0ac66ef6-3f63-447e-b24d-040ac03f3643",
+      "user": "abd",
+      "text": "ReLbr0RG8LTDSemw:RPHyRpfsRT6EKMucKsxEMw==:l3vJ2PFGtNz5LAUfLt681K0t",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:53:39.471Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "7b23a3d7-b670-402f-aaf2-feaa6650b482",
+      "user": "abd",
+      "text": "FKW3MJwB9Hx6OT8H:HXd4Oi0p3MJGvygNbOAqSw==:100GLFrJSMZwwnbUq1bVD7EMIFOj+lcdJEqrCAwNtFs=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:53:41.741Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "54851dde-f58c-4203-87cb-2f3fd7a44422",
+      "user": "ass",
+      "text": "Qp/DYu8nvxmhPcl6:kZXEUuxv41LbMiKmO+Y5gA==:px8B8jrOCoA0zfGpae01ubhx2fiUZrevD8tGK2Vles/Avgo/",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:53:44.720Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "da21ebe9-e1a9-4e00-a93d-1b90060965fb",
+      "user": "ass",
+      "text": "53BC6OyfSD5L30gT:4px5lEaTX0Jz9Ux/03NHSg==:JMSZReY5hXHJ2VWAjnL9UWJU",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:54:09.526Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "89e7972a-b72d-465b-8829-b38448cff6ae",
+      "user": "abd",
+      "text": "",
+      "imageUrl": "/uploads/e846c5bc-5bfd-4b9d-b763-d768db8615d0.jpg",
+      "room": "general",
+      "time": "2026-04-11T17:54:10.213Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "7fb3fa59-4cd0-458c-92e6-a2fb37397b27",
+      "user": "abd",
+      "text": "T3oK3VByqyvH89t+:mQqc+w6ahI2TdnRs8SbrkA==:nfU7VA3e6UePCMB7",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:54:13.080Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "f350d7f4-2787-443c-87ff-6b2e751d8e3f",
+      "user": "abd",
+      "text": "Cb3vzfHW5EQX5aMw:ITd9cYZ5AiuXPFODui8zFw==:TJg1qw==",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:54:17.372Z",
+      "deleted": false,
+      "replyTo": "da21ebe9-e1a9-4e00-a93d-1b90060965fb"
+    },
+    {
+      "id": "20df2c08-a8e6-4946-8e5d-05e5b589a656",
+      "user": "abd",
+      "text": "Z3CE4o5Ufrj3fLvQ:eXF+FREyaL+rHXyqXizZAQ==:cxlVZXtqeZVSJQ==",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:54:31.392Z",
+      "deleted": false,
+      "replyTo": "7fb3fa59-4cd0-458c-92e6-a2fb37397b27"
+    },
+    {
+      "id": "a28eddd9-4c9b-450e-9ccc-07a8a2b91734",
+      "user": "ass",
+      "text": "iUNbE6lafqgHj5In:S/vZa4+mCPhVjxJsAuSQvw==:ZWVtw565ATUIMSZDHDxvrcz5l3k9/w==",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:54:34.727Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "848434f7-1546-42d0-8967-49b1cbd11fe7",
+      "user": "abd",
+      "text": "jkehM9TmEyZly5hx:E7VeSPsbK4Y7HceU6U040A==:BWhUkNESZ9s3jb0UVoSSXI6rfYDozAQ=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:54:42.693Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "1efd0098-8301-48b4-9618-9337c6d04c05",
+      "user": "abd",
+      "text": "s00Bbkpn65bMs8f8:GISaQZEnqTMJfOeQhrALvw==:eeZal0WNWJz9Sdyy8erH+5FEpqdZ7gnK8L5biZMlnEI5rA9V",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:54:44.189Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "3240c09b-f4a2-440a-87a9-3de272d9a2e8",
+      "user": "abd",
+      "text": "lBXVFp3BgiLBkHf4:uVx5SbRYRsRBcm34zgXtJA==:2eQ5V/k4a08mE5TLx4P+P9CepOA=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:54:47.603Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "0335236e-483f-412e-8392-309cdbdc9d37",
+      "user": "abd",
+      "text": "2I8PqaP9iznkuNcn:Bm8ANGs8vjB6gYJtp/8p6Q==:FEt1oq1jxs0ELFrD1wyAvMK6kjl7BFMw",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:54:49.400Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "7aa07e7d-5dd1-4ba0-a430-504b641b2df5",
+      "user": "meow",
+      "text": "ISxmACJ0Ha38tAtk:N7mxbDV6u55PghsQLW5zhA==:0VE=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:58:37.217Z",
+      "deleted": false,
+      "replyTo": "a28eddd9-4c9b-450e-9ccc-07a8a2b91734"
+    },
+    {
+      "id": "9493bac4-cb11-4680-bd3f-4e7954e6b37d",
+      "user": "meow",
+      "text": "",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:58:42.692Z",
+      "deleted": true,
+      "replyTo": "7aa07e7d-5dd1-4ba0-a430-504b641b2df5",
+      "deletedAt": "2026-04-11T17:58:45.501Z"
+    },
+    {
+      "id": "80df246e-196f-4e1b-a641-695d6a9687a6",
+      "user": "meow",
+      "text": "yyTKXiNfOPJPZJu2:dbYYmxhMa+VULvk+KH+3/g==:vIQ=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T17:58:48.938Z",
+      "deleted": false,
+      "replyTo": "0335236e-483f-412e-8392-309cdbdc9d37"
+    },
+    {
+      "id": "bdb1962b-f2e3-4f12-a259-8df526354860",
+      "user": "meow",
+      "text": "LkuLw5TfdS6Ha91N:wmX3+Y0YIFw2hu2M833brg==:Kec=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:00:16.454Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "639dc019-6078-4567-806f-6a7540e1dbc8",
+      "user": "meow",
+      "text": "fmhjMTFZhj9Aw1XO:ZjqrhpiGibh19pm+qAs2Gw==:OnM=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:01:09.026Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "27304859-888d-49c6-a28b-00de1396e5ce",
+      "user": "Abd_haterno1",
+      "text": "DYlx7oyy5i/boaXT:qmCB1MaMDjIGNruh8a1utQ==:yQoOh59o",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:48:03.326Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "a3b230f6-0fa5-40dd-ab41-0f1df52d16fd",
+      "user": "meow",
+      "text": "PIkLCa8+dvQ8TFdR:IozlzhC2d+Y75um7Upzc9Q==:Zqo=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:48:06.369Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "b191283a-10a7-4fba-8356-7af47bd340e0",
+      "user": "meow",
+      "text": "3/FRW8WthtmfbRtd:sB0mIhFiHJEhvIsnx8PefA==:qcZE",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:48:10.846Z",
+      "deleted": false,
+      "replyTo": "27304859-888d-49c6-a28b-00de1396e5ce"
+    },
+    {
+      "id": "023b92f4-433a-4561-8866-2d92877f7324",
+      "user": "Abd_haterno1",
+      "text": "w9KXnUteKGe9po9j:ow3gzn35vRcV7Bs55qhBEQ==:ppgIGiXjOYw=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:48:11.199Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "cbf14a07-fbe5-49fa-ad06-fd9fe9b5a8e8",
+      "user": "meow",
+      "text": "QgkO4E0eoUU3rUf0:wfKqHoZDaOOchuUSKpgTwg==:i0tKv5QQMeei4jX3aSVSw5I=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:48:16.978Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "26601267-4cec-4400-b6ef-88a633221759",
+      "user": "meow",
+      "text": "XjFlEnMWLsXDJcFw:5u39uEiTUX2G4w3J57Gt8A==:HDM0PUs=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:48:22.459Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "447e944a-3a74-4c47-9097-72960207e127",
+      "user": "Abd_haterno1",
+      "text": "ARVAv2TCam7K9ERc:zpsp23X64CxJMJ8ZEnnKJg==:VeRPWbJZysAMRTIoMSCc9WolgcQ=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:48:25.524Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "bce1926e-d40b-49b8-874e-e6536e2f4a2d",
+      "user": "Abd_haterno1",
+      "text": "1hQ2b8OuBb918xrq:kTgkqKQ2pR/k9rF/FRz3aA==:tyeTp9PZ3G0/Ww==",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:48:31.650Z",
+      "deleted": false,
+      "replyTo": "26601267-4cec-4400-b6ef-88a633221759"
+    },
+    {
+      "id": "8b90061d-f229-4801-939e-069019628e50",
+      "user": "meow",
+      "text": "",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:48:35.448Z",
+      "deleted": true,
+      "replyTo": null,
+      "deletedAt": "2026-04-11T18:48:48.380Z"
+    },
+    {
+      "id": "3f54f4c0-9530-4715-a580-fb509984cc06",
+      "user": "Abd_haterno1",
+      "text": "GpJbPYLK9ioUeqrv:ZDKQNyARazTUPNv6SFvVTQ==:HJo0pUmzr577/Uoeg5FPWEWXnDdyK1ncmu+dCwwb8O2ryA==",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:48:55.059Z",
+      "deleted": false,
+      "replyTo": "8b90061d-f229-4801-939e-069019628e50"
+    },
+    {
+      "id": "e1553c39-8558-418a-90e7-d0362b1cde2c",
+      "user": "meow",
+      "text": "SUzpo/sKgAsXRYFd:7QGWL4I/gJ66wMuhlWG5eQ==:5TuZ",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:49:10.728Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "72b4415b-18b6-4ff6-ac0c-2f0767cb0d2d",
+      "user": "Abd_haterno1",
+      "text": "cZIOQE4NBttSlyi0:fyXCBZvDE/owtWXtJT4yVQ==:xwOX5YUOKYdU9EPIan+LfFMyHUdMFbsUPW7vWg==",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:49:25.164Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "fd97cec9-0e23-46d0-9d53-b6d07880e47e",
+      "user": "meow",
+      "text": "DjhsdXKtK1wFuBVv:IKz4IlFVP0UJxdv34W/eTw==:XB2k9WPf9/JyeS7p",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:49:41.827Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "51f9703a-e067-4de6-843f-812e93035f2d",
+      "user": "Abd_haterno1",
+      "text": "7e/xjkHoc8Rjivi+:QPcKboHOwznwan89/vZgCw==:mL+GgbXYE8lTKeo=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:49:56.275Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "ecf9283e-b69a-4a0e-a191-c0756dc175d0",
+      "user": "Abd_haterno1",
+      "text": "J1kIFnpBbS4cnzgG:Dgy1Zmw8Ff36O3ceJhMbCw==:gljJQL4=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:49:59.863Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "87c57e1b-fc8f-4d3c-babd-377d070bb6d3",
+      "user": "Abd_haterno1",
+      "text": "205udtd9m3eBh3+v:4BYC+tFETEVbGhRWAv1m5A==:BJJMVA0j",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:50:04.384Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "a32bc642-a3bf-4da3-9eeb-879b84a52c34",
+      "user": "meow",
+      "text": "Phe83vHpGphViaDL:LwO+YC6p+vSA9YAB9nZueA==:AP/o",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:50:07.717Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "1357179a-02d8-4670-834d-28931dac3ef7",
+      "user": "Abd_haterno1",
+      "text": "mvQppKEQis2Ks/WZ:btF2Hktmbs6RbRLqDwnuFQ==:I71vKeJ0Y+MHQbk2",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:50:15.854Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "8cabdc10-fc2b-4487-85a1-0c13cbf5978f",
+      "user": "meow",
+      "text": "VeLykjsVqrv8wdeA:ZXyYeONmnq6xCWgsTSUA6w==:EUkck01VRMs=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:50:22.588Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "da954f74-b537-4bf2-843a-35446842c499",
+      "user": "Abd_haterno1",
+      "text": "jpcl6pPfrDhxb3+5:mVqqap281J5rf4ssX2odRg==:F/4uQwIy0ziBqQUbi/ey9N3isuy73QLsCmp3dX5kKWnNvGCevR4=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:50:34.133Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "bb212593-2d49-4190-aebd-3536c26b9165",
+      "user": "meow",
+      "text": "6cdbjTKe8RXxnNRi:mnZVbq/NRYlbiGZYX583zQ==:KUqcjTX7ifRG1dHhH6v9TkeBA10n1cOyaWvrQQ==",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:50:56.784Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "90fa2ab8-e99e-4ddf-bea1-a6d8c6c6cfa8",
+      "user": "Abd_haterno1",
+      "text": "Lg2zJ/CV9HdgpjXg:GY1Yqm4t/N81T6O953fF+w==:eYrZIMicTUJo0clP9l4kTiYzWWVaklAwG8WwZAU3b2uNPKibwW306iYsab71a8g/Sgtz",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:51:12.371Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "78fcda08-335f-434b-840f-f21178f4b407",
+      "user": "meow",
+      "text": "+7dNgKfAYoWPc/Pj:g40eGRnayLHvGkIW49aelA==:guN7BbOLmkDZwzh+whhpLCnkXknPFHTW",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:51:33.497Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "4b53fad1-5213-4bd9-8a85-028616cc5f43",
+      "user": "meow",
+      "text": "0Z75kmfWq0r3NW5A:caUps2xzDRWHSDsQJwLRyQ==:K3PcSYNEOHcK1VugNHpk6A==",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:51:47.974Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "d89041eb-ff47-4069-afa0-55e5907871ed",
+      "user": "meow",
+      "text": "muHNWXl6SQSwmf8C:TP3V4NrZYhrKGPH9dYHkmw==:h3MOb+eRy8Inbc2Q5iELyM4=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:51:52.846Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "cf72ee5d-4f2c-4f70-9929-79aa4bb2bcbd",
+      "user": "Abd_haterno1",
+      "text": "PiGHPC1KGpTSbfDJ:BzhKfliewwsKGKFmcR2hAQ==:+zHFkr4e0JK/cska/5GoOSD1pZqLa4ClaFD6JuNapXN7Bsq/z8GrHI7r8+mphXWtOodYtxIUiIiYerE=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:52:02.023Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "5201a15d-4771-41c7-a0a4-589c080d841f",
+      "user": "Abd_haterno1",
+      "text": "uEvp3R6yfLhsxJQu:X23pOOsjXb30X9akNdqQnQ==:uV8lOoUt+jX9yDc=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-11T18:52:11.355Z",
+      "deleted": false,
+      "replyTo": "d89041eb-ff47-4069-afa0-55e5907871ed"
+    },
+    {
+      "id": "997be77e-cf40-407c-81f9-c8bd321d5339",
+      "user": "abd",
+      "text": "YYCSC6W9GVuVCIDH:JMpCQK964CHFLLt/vLwLig==:WJY=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-24T20:14:51.439Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "225b1025-5e6e-45f2-8809-1ae9dd47deb2",
+      "user": "Abd_haterno1",
+      "text": "a91UmF1bQRZ0E4NM:VklBl7gO19lTidk7wABOMA==:FD8fz5cB",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-24T20:14:58.089Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "8817adb7-6424-42c3-8994-bf048dc65ee4",
+      "user": "abd",
+      "text": "",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-04-24T20:15:03.049Z",
+      "deleted": true,
+      "replyTo": null,
+      "deletedAt": "2026-06-01T16:31:09.023Z"
+    },
+    {
+      "id": "11c958e0-f5df-4c97-8ea6-26b0cc67cd1a",
+      "user": "abd",
+      "text": "3FNmsTvd0+3Lx/f4:BzzMWSgwKc74xmCsQmYkzg==:EFM=",
+      "imageUrl": null,
+      "room": "general",
+      "time": "2026-06-01T16:30:33.592Z",
+      "deleted": false,
+      "replyTo": "225b1025-5e6e-45f2-8809-1ae9dd47deb2"
+    },
+    {
+      "id": "bd97f6a5-3620-45ef-924d-c3058ca71a8e",
+      "user": "abd",
+      "text": "",
+      "imageUrl": "/uploads/11fdc9c1-21fd-4537-add9-c1c5b58adc3a.jpg",
+      "room": "general",
+      "time": "2026-06-01T16:31:02.222Z",
+      "deleted": false,
+      "replyTo": null
+    }
+  ],
+  "dm:9366764c5b4ecd92": [
+    {
+      "id": "d0433223-950b-47bc-9d29-f89313782dc6",
+      "user": "abd",
+      "text": "HzeXyk2pjvXOAv39:araG9AoMtlc9PjsUACl9Ew==:tEo=",
+      "imageUrl": null,
+      "room": "dm:9366764c5b4ecd92",
+      "time": "2026-04-11T17:50:42.719Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "3d143137-e147-4e77-a815-1147743f0caa",
+      "user": "meow",
+      "text": "Y+L7OfTKNxrRYamt:MwvMfCTcOrJ47WNi9LgqIA==:0k0=",
+      "imageUrl": null,
+      "room": "dm:9366764c5b4ecd92",
+      "time": "2026-04-11T17:50:49.040Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "b3919e31-3aa4-4f5c-ab93-f807cdd75f59",
+      "user": "meow",
+      "text": "/sXUzyvgrjon859Y:U6RiJ4aIZ+yOaUOdGi03iQ==:kL6EMQ==",
+      "imageUrl": null,
+      "room": "dm:9366764c5b4ecd92",
+      "time": "2026-04-11T17:50:54.993Z",
+      "deleted": false,
+      "replyTo": "d0433223-950b-47bc-9d29-f89313782dc6"
+    },
+    {
+      "id": "17794b2a-da17-4d8e-904e-f1f6ec844623",
+      "user": "meow",
+      "text": "ZBEfVJSXIFV7Y2oK:6peA10FUC2+Hm/UHbJhM+g==:Tf96KSyCpa+nqVE1",
+      "imageUrl": null,
+      "room": "dm:9366764c5b4ecd92",
+      "time": "2026-04-11T17:50:57.989Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "fc0bf71c-99b3-4c25-9d59-9c85df8ff2f5",
+      "user": "meow",
+      "text": "CJcPU3v8bt2EqSaU:s5PavvZTmLXyPT23Uo0vvQ==:OW3sQPEDPlum",
+      "imageUrl": null,
+      "room": "dm:9366764c5b4ecd92",
+      "time": "2026-04-11T17:51:07.713Z",
+      "deleted": false,
+      "replyTo": null
+    }
+  ],
+  "dm:d1828e4df82b8348": [
+    {
+      "id": "98ea815f-5f0e-4ab6-a955-cc23b99752a7",
+      "user": "abd",
+      "text": "SG6u1/GX5wspIs2a:N3qso5eE/qzGxDYFGW+4ig==:xTA=",
+      "imageUrl": null,
+      "room": "dm:d1828e4df82b8348",
+      "time": "2026-04-11T17:55:01.578Z",
+      "deleted": false,
+      "replyTo": null
+    }
+  ],
+  "dm:dcdffc31d89c49ae": [
+    {
+      "id": "4454ced8-7221-4888-a05a-b690a8eea32d",
+      "user": "abd",
+      "text": "VuHOdUKupyWgDH0S:+L9DDvLyjYhAMuqLlpW0AQ==:qOegMw4=",
+      "imageUrl": null,
+      "room": "dm:dcdffc31d89c49ae",
+      "time": "2026-04-24T20:15:08.710Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "a08d5395-55ba-4ed5-a373-e4ecea5f0724",
+      "user": "abd",
+      "text": "E9WQxUn9YjQTU4rk:mzbY9pyWAzcGFSMMb1Sa9g==:B3LcV5IV7oYg/r5kZ2cw",
+      "imageUrl": null,
+      "room": "dm:dcdffc31d89c49ae",
+      "time": "2026-04-24T20:15:15.145Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "8beb17c9-76dd-47d3-b8fa-0d2bf7cac931",
+      "user": "Abd_haterno1",
+      "text": "ZnUp6MHVsSAMf2MT:sIKG4Wzy4Do6dWTwQMBNyQ==:xJrs1mVKPv8=",
+      "imageUrl": null,
+      "room": "dm:dcdffc31d89c49ae",
+      "time": "2026-04-24T20:15:17.496Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "7c1d574b-77ce-4122-a0ef-dbad75ea5f34",
+      "user": "Abd_haterno1",
+      "text": "jv1LX1hAYjPDxPEK:p9xkRRUDscjB26PNCbCjiQ==:WsAhMVDM",
+      "imageUrl": null,
+      "room": "dm:dcdffc31d89c49ae",
+      "time": "2026-04-24T20:15:21.834Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "c7cc445a-7016-4f2d-bc7a-04d340d7be01",
+      "user": "abd",
+      "text": "4u0QnHy7tJzciOgd:F84CGJO8eANWRwBTwd3r2w==:8RsP",
+      "imageUrl": null,
+      "room": "dm:dcdffc31d89c49ae",
+      "time": "2026-04-24T20:15:25.807Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "164ab5d9-e105-46a4-b61e-a1e5f43f11e1",
+      "user": "abd",
+      "text": "ovMDlVngJbg8NeFC:H8sd0Ii3qc6ygYO+UdZ4hA==:3b8n",
+      "imageUrl": null,
+      "room": "dm:dcdffc31d89c49ae",
+      "time": "2026-04-24T20:15:26.694Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "f2accc5d-881c-498a-adbd-8b3c4cedfb06",
+      "user": "abd",
+      "text": "ZZMcHh9j8SWGeYeT:qYcUDXFLt9FBoObqtzx1Uw==:0tehtb6X3tyB/fCy",
+      "imageUrl": null,
+      "room": "dm:dcdffc31d89c49ae",
+      "time": "2026-04-24T20:15:29.155Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "5004afaf-f7c4-4a83-b06f-20910173b3ce",
+      "user": "Abd_haterno1",
+      "text": "9DXFCraIYMOFwWNl:6A0G6rvEt8MO0FXZMHMZ/g==:eevbaDhUIB+maTP+yab1FPSkhSfFv2lUKtfnZL2EcNRALe8=",
+      "imageUrl": null,
+      "room": "dm:dcdffc31d89c49ae",
+      "time": "2026-04-24T20:15:55.992Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "05c21abb-b0aa-473b-81f2-bb56380effb7",
+      "user": "Abd_haterno1",
+      "text": "4rBZFwskXWNUUR7e:H6eJCSAinShOoExsyQb7IA==:YJQcGA3mx5fdxtcJdvO6wEMk0g==",
+      "imageUrl": null,
+      "room": "dm:dcdffc31d89c49ae",
+      "time": "2026-04-24T20:16:05.299Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "00e73106-fd43-4a90-b05d-0cfeef20a5b1",
+      "user": "abd",
+      "text": "oJN+IcA7V7t0HUKs:K3dYq/2wfWvr0PKaNVCaLg==:ITvQWBfTiyfQlCrpk6gY7FfPDZna",
+      "imageUrl": null,
+      "room": "dm:dcdffc31d89c49ae",
+      "time": "2026-04-24T20:16:05.985Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "b53eb131-9b1d-43ce-9c18-5c066f9c8cbb",
+      "user": "Abd_haterno1",
+      "text": "YOUtKAHnn2elbyVo:nFOvQN7VrN3XVH/Aly0V6A==:rLdxrdPI",
+      "imageUrl": null,
+      "room": "dm:dcdffc31d89c49ae",
+      "time": "2026-04-24T20:16:11.027Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "14c1f848-39bf-4a43-8845-f143a8ccb671",
+      "user": "Abd_haterno1",
+      "text": "hpd+oFqLxd79rU4u:0DaPeNKkL2/jGLn8R2ziRA==:RUIybsAil6/fWUX8VOpD",
+      "imageUrl": null,
+      "room": "dm:dcdffc31d89c49ae",
+      "time": "2026-04-24T20:16:17.137Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "2a8c28e7-e506-4d91-9ba5-a44b56c0384a",
+      "user": "abd",
+      "text": "ztq60bchv+/sgFH4:GLSCFLqgzkI4upEpZrYJGg==:0N663VQU5vABk36w",
+      "imageUrl": null,
+      "room": "dm:dcdffc31d89c49ae",
+      "time": "2026-04-24T20:16:17.829Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "36c100b3-afaf-41de-8c32-094e02db9561",
+      "user": "abd",
+      "text": "gztcuP5/e3HncKKH:hcYZTf1WrWQ64Td92CsQUQ==:IwkiJSI1poAyinGycbiWJ+sQGaRx/8Z5lz2cTD5jYAenUzVxu4tBGi8R9z1sluSS",
+      "imageUrl": null,
+      "room": "dm:dcdffc31d89c49ae",
+      "time": "2026-04-24T20:16:32.101Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "f64113ca-fc0c-4b73-8a1e-37d64e8faa84",
+      "user": "Abd_haterno1",
+      "text": "wiEnSFju57KSkQhc:KfhAeTaNWT+AcDxvmtEhqg==:jRQoZtXwB/Kh",
+      "imageUrl": null,
+      "room": "dm:dcdffc31d89c49ae",
+      "time": "2026-04-24T20:16:39.403Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "6c0985f1-e580-4667-8776-d968e9e8fde3",
+      "user": "abd",
+      "text": "NR6zEThMP3A3EFiE:nwTsw1INPMM85M93TGbhBQ==:bba8lSE5x1tuWGGlOIrzX+mBfVSuASqUSC2H",
+      "imageUrl": null,
+      "room": "dm:dcdffc31d89c49ae",
+      "time": "2026-04-24T20:16:43.217Z",
+      "deleted": false,
+      "replyTo": "14c1f848-39bf-4a43-8845-f143a8ccb671"
+    },
+    {
+      "id": "3c55322b-8882-49d3-914b-fa4c0f135697",
+      "user": "Abd_haterno1",
+      "text": "/nJmwwqYvqLDm+Y1:KS2UWFwlOe7miEeRQCiXTQ==:8JhEWznCqOTH7pPq6aX0CglyyQfeMIKWDp1Qy3lLfCTap2kjHSo=",
+      "imageUrl": null,
+      "room": "dm:dcdffc31d89c49ae",
+      "time": "2026-04-24T20:17:02.351Z",
+      "deleted": false,
+      "replyTo": null
+    },
+    {
+      "id": "1f698bb0-de03-41a2-ab54-effaef2800f9",
+      "user": "abd",
+      "text": "qzQobXIJn+sB9aoB:wog2/oa7SkU/pV9haPqTTA==:yQTuow==",
+      "imageUrl": null,
+      "room": "dm:dcdffc31d89c49ae",
+      "time": "2026-04-24T20:17:06.471Z",
+      "deleted": false,
+      "replyTo": null
+    }
+  ]
+}

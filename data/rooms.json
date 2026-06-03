@@ -1,0 +1,31 @@
+{
+  "general": {
+    "owner": null,
+    "private": false,
+    "createdAt": "2026-04-09T09:06:28.360Z"
+  },
+  "dm:9366764c5b4ecd92": {
+    "owner": null,
+    "private": true,
+    "members": [
+      "abd",
+      "meow"
+    ]
+  },
+  "dm:d1828e4df82b8348": {
+    "owner": null,
+    "private": true,
+    "members": [
+      "abd",
+      "ass"
+    ]
+  },
+  "dm:dcdffc31d89c49ae": {
+    "owner": null,
+    "private": true,
+    "members": [
+      "abd",
+      "Abd_haterno1"
+    ]
+  }
+}
